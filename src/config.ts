@@ -21,20 +21,20 @@ import { LinkPreset } from "./types/config";
 // 移除i18n导入以避免循环依赖
 
 // 定义站点语言
-const SITE_LANG = "ja"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
+const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
 	title: "Mizuki",
 	subtitle: "One demo website",
-	siteURL: "https://mizuki.mysqil.com/", // 请替换为你的站点URL，以斜杠结尾
-	siteStartDate: "2025-01-01", // 站点开始运行日期，用于站点统计组件计算运行天数
+	siteURL: "https://blog.aliceteaparty.top/", // 请替换为你的站点URL，以斜杠结尾
+	siteStartDate: "2026-04-15", // 站点开始运行日期，用于站点统计组件计算运行天数
 
 	timeZone: SITE_TIMEZONE,
 
 	lang: SITE_LANG,
 
 	themeColor: {
-		hue: 240, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
+		hue: 220, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
 		fixed: false, // 对访问者隐藏主题色选择器
 	},
 
@@ -55,7 +55,7 @@ export const siteConfig: SiteConfig = {
 		// 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
 		mode: "text-icon",
 		// 顶栏标题文本
-		text: "MizukiUI",
+		text: "Alice",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
 		icon: "assets/home/AliceSprite.png",
 		// 网站Logo图片路径
