@@ -368,8 +368,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/111.png
-", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "assets/images/111.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "爱丽丝",
 	bio: "代码的特摄宅，光之美少女十年老粉，嘴毒心软的 18 岁",
 	typewriter: {
