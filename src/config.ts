@@ -57,7 +57,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "MizukiUI",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
-		icon: "assets/home/home.webp",
+		icon: "assets/home/AliceSprite.png",
 		// 网站Logo图片路径
 		logo: "assets/home/default-logo.webp",
 	},
@@ -69,7 +69,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	bangumi: {
-		userId: "your-bangumi-id", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
+		userId: "710795", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
 		fetchOnDev: false, // 是否在开发环境下获取 Bangumi 数据（默认 false），获取前先执行 pnpm build 构建 json 文件
 	},
 
@@ -125,16 +125,16 @@ export const siteConfig: SiteConfig = {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
 			desktop: [
-				"/assets/desktop-banner/1.webp",
-				"/assets/desktop-banner/2.webp",
-				"/assets/desktop-banner/3.webp",
-				"/assets/desktop-banner/4.webp",
+				"/assets/desktop-banner/[FLsnow&DBD-Raws][Smile 光之美少女！][03][1080P][BDRip][HEVC-10bit][FLAC].mkv_001908.113.png",
+				"/assets/desktop-banner/Go! Princess 光之美少女 [39] [1080P][BDRip][HEVC-10bit][FLAC].mkv_001506.090.png",
+				"/assets/desktop-banner/[DBD-Raws][HeartCatch 光之美少女!][46][1080P][BDRip][HEVC-10bit][FLAC].mkv_002022.932.png",
+				"/assets/desktop-banner/[DBD-Raws][Mahou Tsukai Precure!! Mirai Days][12][1080P][BDRip][HEVC-10bit][FLAC].mkv_001500.245.png",
 			], // 桌面横幅图片
 			mobile: [
-				"/assets/mobile-banner/1.webp",
-				"/assets/mobile-banner/2.webp",
-				"/assets/mobile-banner/3.webp",
-				"/assets/mobile-banner/4.webp",
+				"/assets/mobile-banner/129323424_p0.jpg",
+				"/assets/mobile-banner/130451600_p0.jpg",
+				"/assets/mobile-banner/357bb2f6ded26a1e.png",
+				"/assets/mobile-banner/a7498f5a63c800a1.png",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
@@ -162,14 +162,14 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "わたしの部屋", // 主页横幅主标题
+			title: "爱丽丝的茶会", // 主页横幅主标题
 
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"欢迎光临，茶水自助，bug 反馈随缘修",
+				"今天也很好，因为还没到明天",
+				"别指望这里有多深刻，我只是个爱吐槽的普通神秘魔法少女罢了",
+				"要是觉得生活太难，不如来杯茶摆烂...开玩笑的，该干的活还是要干",
+				"有什么想说的吗？我听着呢，不过别太啰嗦就好",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
@@ -492,7 +492,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	mode: "local", // 音乐播放器模式，可选 "local" 或 "meting"
 	meting_api:
 		"https://meting.mysqil.com/api?server=:server&type=:type&id=:id&auth=:auth&r=:r", // Meting API 地址
-	id: "14164869977", // 歌单ID
+	id: "17889254073", // 歌单ID
 	server: "netease", // 音乐源服务器。有的meting的api源支持更多平台,一般来说,netease=网易云音乐, tencent=QQ音乐, kugou=酷狗音乐, xiami=虾米音乐, baidu=百度音乐
 	type: "playlist", // 播单类型
 };
@@ -668,7 +668,7 @@ export const sakuraConfig: SakuraConfig = {
 
 // Pio 看板娘配置
 export const pioConfig: import("./types/config").PioConfig = {
-	enable: false, // 禁用看板娘以提升性能
+	enable: true, // 禁用看板娘以提升性能
 	models: ["/pio/models/pio/model.json"], // 默认模型路径
 	position: "left", // 模型位置
 	width: 280, // 默认宽度
