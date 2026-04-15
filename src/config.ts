@@ -474,7 +474,7 @@ export const shareConfig: ShareConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "茶会进行中", // 公告标题，填空使用i18n字符串Key.announcement
+	title: "", // 公告标题，填空使用i18n字符串Key.announcement
 	content: "欢迎来到爱丽丝的茶会！这里没有规矩，除了不许无聊", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
