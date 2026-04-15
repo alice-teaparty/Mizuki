@@ -1,4 +1,4 @@
-import type {
+"import type {
 	AnnouncementConfig,
 	CommentConfig,
 	ExpressiveCodeConfig,
@@ -52,7 +52,7 @@ export const siteConfig: SiteConfig = {
 
 	// 顶栏标题配置
 	navbarTitle: {
-		// 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
+		// 显示模式：“text-icon” 显示图标+文本，“logo” 仅显示Logo
 		mode: "text-icon",
 		// 顶栏标题文本
 		text: "Alice",
@@ -69,14 +69,14 @@ export const siteConfig: SiteConfig = {
 	},
 
 	bangumi: {
-		userId: "710795", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
+		userId: "710795", // 在此处设置你的Bangumi用户ID，可以设置为 “sai” 测试
 		fetchOnDev: false, // 是否在开发环境下获取 Bangumi 数据（默认 false），获取前先执行 pnpm build 构建 json 文件
 	},
 
 	bilibili: {
-		vmid: "your-bilibili-vmid", // 在此处设置你的Bilibili用户ID (uid)，例如 "1129280784"
+		vmid: "your-bilibili-vmid", // 在此处设置你的Bilibili用户ID (uid)，例如 “1129280784”
 		fetchOnDev: false, // 是否在开发环境下获取 Bilibili 数据（默认 false）
-		coverMirror: "", // 封面图片镜像源（可选，如果需要使用镜像源，例如 "https://images.weserv.nl/?url="）
+		coverMirror: "", // 封面图片镜像源（可选，如果需要使用镜像源，例如 “https://images.weserv.nl/?url=”）
 		useWebp: true, // 是否使用WebP格式（默认 true）
 
 		// bilibili 观看进度配置说明(可选，如需配置仔细阅读):
@@ -87,13 +87,13 @@ export const siteConfig: SiteConfig = {
 	},
 
 	anime: {
-		mode: "bangumi", // 番剧页面模式："bangumi" 使用Bangumi API，"local" 使用本地配置，"bilibili" 使用Bilibili API
+		mode: "bangumi", // 番剧页面模式：“bangumi” 使用Bangumi API，“local” 使用本地配置，“bilibili” 使用Bilibili API
 	},
 
 	// 文章列表布局配置
 	postListLayout: {
-		// 默认布局模式："list" 列表模式（单列布局），"grid" 网格模式（双列布局）
-		// 注意：如果侧边栏配置启用了"both"双侧边栏，则无法使用文章列表"grid"网格（双列）布局
+		// 默认布局模式：“list” 列表模式（单列布局），“grid” 网格模式（双列布局）
+		// 注意：如果侧边栏配置启用了“both”双侧边栏，则无法使用文章列表“grid”网格（双列）布局
 		defaultMode: "list",
 		// 是否允许用户切换布局
 		allowSwitch: true,
@@ -113,11 +113,11 @@ export const siteConfig: SiteConfig = {
 	wallpaperMode: {
 		// 默认壁纸模式：banner=顶部横幅，fullscreen=全屏壁纸，none=无壁纸
 		defaultMode: "banner",
-		// 整体布局方案切换按钮显示设置（默认："desktop"）
-		// "off" = 不显示
-		// "mobile" = 仅在移动端显示
-		// "desktop" = 仅在桌面端显示
-		// "both" = 在所有设备上显示
+		// 整体布局方案切换按钮显示设置（默认：“desktop”）
+		// “off” = 不显示
+		// “mobile” = 仅在移动端显示
+		// “desktop” = 仅在桌面端显示
+		// “both” = 在所有设备上显示
 		showModeSwitchOnMobile: "desktop",
 	},
 
@@ -188,7 +188,7 @@ export const siteConfig: SiteConfig = {
 		},
 
 		navbar: {
-			transparentMode: "semifull", // 导航栏透明模式："semi" 半透明加圆角，"full" 完全透明，"semifull" 动态透明
+			transparentMode: "semifull", // 导航栏透明模式：“semi” 半透明加圆角，“full” 完全透明，“semifull” 动态透明
 		},
 	},
 	toc: {
@@ -230,7 +230,7 @@ export const siteConfig: SiteConfig = {
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
 	},
-	showLastModified: true, // 控制"上次编辑"卡片显示的开关
+	showLastModified: true, // 控制“上次编辑”卡片显示的开关
 	pageProgressBar: {
 		enable: true, // 启用页面顶部进度条
 		height: 3, // 进度条高度 3px
@@ -370,7 +370,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/111.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "爱丽丝",
-	bio: "代码的特摄宅，光之美少女十年老粉，嘴毒心软的 18 岁",
+	bio: "表面是代码的特摄宅，实际是嘴毒心善的光之美少女。别惹我，除非你想被我的 Python 脚本安排得明明白白。",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
 		speed: 80, // 打字速度（毫秒）
@@ -475,7 +475,7 @@ export const shareConfig: ShareConfig = {
 
 export const announcementConfig: AnnouncementConfig = {
 	title: "", // 公告标题，填空使用i18n字符串Key.announcement
-	content: "ブログへようこそ！これはサンプルの告知です", // 公告内容
+	content: "欢迎来到爱丽丝的茶会！这里没有规矩，除了不许无聊。", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
@@ -488,7 +488,7 @@ export const announcementConfig: AnnouncementConfig = {
 export const musicPlayerConfig: MusicPlayerConfig = {
 	enable: true, // 启用音乐播放器功能
 	showFloatingPlayer: true, // 显示悬浮播放器 UI
-	floatingEntryMode: "fab", // 悬浮入口模式："default" 为独立悬浮播放器，"fab" 为集成到通用 FAB 组
+	floatingEntryMode: "fab", // 悬浮入口模式：“default” 为独立悬浮播放器，“fab” 为集成到通用 FAB 组
 	mode: "meting", // 音乐播放器模式，可选 "local" 或 "meting"
 	meting_api: "https://mapi.aliceteaparty.top/api?server=:server&type=:type&id=:id&auth=:auth&r=:r", // Meting API 地址
 	id: "17889254073", // 歌单ID
@@ -515,7 +515,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 		{
 			// 组件类型：用户资料组件
 			type: "profile",
-			// 组件位置："top" 表示固定在顶部
+			// 组件位置：“top” 表示固定在顶部
 			position: "top",
 			// CSS 类名，用于应用样式和动画
 			class: "onload-animation",
@@ -525,7 +525,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 		{
 			// 组件类型：公告组件
 			type: "announcement",
-			// 组件位置："top" 表示固定在顶部
+			// 组件位置：“top” 表示固定在顶部
 			position: "top",
 			// CSS 类名
 			class: "onload-animation",
@@ -542,7 +542,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 		{
 			// 组件类型：分类组件
 			type: "categories",
-			// 组件位置："sticky" 表示粘性定位，可滚动
+			// 组件位置：“sticky” 表示粘性定位，可滚动
 			position: "sticky",
 			// CSS 类名
 			class: "onload-animation",
@@ -557,7 +557,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 		{
 			// 组件类型：标签组件
 			type: "tags",
-			// 组件位置："sticky" 表示粘性定位
+			// 组件位置：“sticky” 表示粘性定位
 			position: "top",
 			// CSS 类名
 			class: "onload-animation",
@@ -716,3 +716,4 @@ export const widgetConfigs = {
 } as const;
 
 // umamiConfig相关配置已移动至astro.config.mjs中,统计脚本请自行在Layout.astro文件的<head>中插入
+"
