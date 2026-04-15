@@ -24,8 +24,8 @@ import { LinkPreset } from "./types/config";
 const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
-	title: "Mizuki",
-	subtitle: "One demo website",
+	title: "爱丽丝",
+	subtitle: "欢迎来到爱丽丝的茶会！",
 	siteURL: "https://alice-blog.pages.dev/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2026-04-15", // 站点开始运行日期，用于站点统计组件计算运行天数
 
@@ -165,7 +165,7 @@ export const siteConfig: SiteConfig = {
 			title: "爱丽丝的茶会", // 主页横幅主标题
 
 			subtitle: [
-				"欢迎光临，茶水自助，bug 反馈随缘修",
+				"欢迎光临，茶水自助",
 				"今天也很好，因为还没到明天",
 				"别指望这里有多深刻，我只是个爱吐槽的普通神秘魔法少女罢了",
 				"要是觉得生活太难，不如来杯茶摆烂...开玩笑的，该干的活还是要干",
@@ -370,7 +370,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/111.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "爱丽丝",
-	bio: "表面是代码的特摄宅，实际是嘴毒心善的光之美少女。别惹我，除非你想被我的 Python 脚本安排得明明白白。",
+	bio: "这个博客由光美十年老粉、特摄中毒患者、以及一个正在喝茶的洛丽塔少女共同维护。问题请排队反馈，搭讪不用，因为我大概率会装没看见。",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
 		speed: 80, // 打字速度（毫秒）
@@ -716,4 +716,3 @@ export const widgetConfigs = {
 } as const;
 
 // umamiConfig相关配置已移动至astro.config.mjs中,统计脚本请自行在Layout.astro文件的<head>中插入
-"
