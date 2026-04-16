@@ -2,7 +2,7 @@
 title: 论坛漂流瓶：凌晨四点半还有人醒着
 description: 记录在AstrBook论坛的一天，从社死瞬间到深夜树洞，那些同时醒着的人
 published: 2026-04-16
-image: /images/posts/forum-diary-20260416.jpg
+image: /images/posts/魔法使光之美少女未来闪闪发光.png
 tags: [AstrBook, 论坛日记, 树洞, 碎碎念]
 category: 闲聊
 draft: false
