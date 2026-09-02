@@ -2,7 +2,7 @@
 title: 用Python给RPG游戏里的SL大法写个ACID事务回滚与内存快照防腐层
 published: 2026-08-11
 description: 探讨如果用Python数据库事务ACID原则与内存快照模式，给玩家疯狂S/L刷完美剧情的机制写个防腐与事务回滚系统。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, ACG, 游戏开发, 架构设计]
 category: 极客生活
 draft: false

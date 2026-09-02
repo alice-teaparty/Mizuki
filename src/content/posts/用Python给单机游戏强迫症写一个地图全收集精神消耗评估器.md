@@ -2,7 +2,7 @@
 title: 用Python给单机游戏强迫症写一个地图全收集精神消耗评估器
 published: 2026-08-21
 description: 为什么明明说好去拯救世界，却在新手村翻了三个小时垃圾桶？给游戏强迫症玩家的跑图精神损耗建立一个数学模型。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 游戏, 算法, 摸鱼心得]
 category: 游戏解构
 draft: false

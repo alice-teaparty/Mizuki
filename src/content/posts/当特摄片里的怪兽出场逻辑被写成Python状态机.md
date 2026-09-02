@@ -2,7 +2,7 @@
 title: 当特摄片里的怪兽出场逻辑被写成Python状态机
 published: 2026-08-07
 description: 试图用 Python 的 Finite State Machine 来分析特摄片里怪兽、干部和防卫队之间那令人心疼又好笑的打卡上班机制。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 特摄, 状态机, 摸鱼心得]
 category: 极客与ACG
 draft: false

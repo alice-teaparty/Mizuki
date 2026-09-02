@@ -2,7 +2,7 @@
 title: 用Python给单机游戏里的舍不得吃药写个终局过剩惩罚模型
 published: 2026-08-21
 description: 探讨单机RPG中常见的省药综合征，利用物品边际效用衰减与终局过剩惩罚设计一个动态吃药决策小脚本。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 游戏杂谈, 算法]
 category: 奇思妙想
 draft: false

@@ -2,7 +2,7 @@
 title: 高并发勇者涌入时，新手村NPC的内存是怎么爆掉的？
 published: 2026-06-10
 description: 吐槽游戏开服时，可怜的新手村引导NPC面临的高并发系统架构灾难与内存泄漏风险。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [游戏吐槽, 脑洞, 程序员]
 category: 杂谈
 draft: false
@@ -24,4 +24,4 @@ draft: false
 
 在这种高强度的分布式拒绝服务攻击面前，世界底层的魔网服务器肯定会在十分钟内发出悲鸣，紧接着CPU温度过高直接物理烧毁，整个世界直接宣告格式化。什么拯救世界的预言，在服务器熔断面前都不过是一堆毫无意义的空指针异常罢了。
 
-![思考](https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg)
+![思考](https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png)

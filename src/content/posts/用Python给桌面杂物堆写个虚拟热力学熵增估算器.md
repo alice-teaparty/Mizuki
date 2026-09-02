@@ -2,7 +2,7 @@
 title: 用Python给桌面杂物堆写个虚拟热力学熵增估算器
 published: 2026-08-19
 description: 明明刚花两小时整理干净的桌面，四十八小时后又会自动长出一堆奇奇怪怪的零食袋和闲置转接头。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 生活日常, 奇思妙想]
 category: 趣味编程
 draft: false

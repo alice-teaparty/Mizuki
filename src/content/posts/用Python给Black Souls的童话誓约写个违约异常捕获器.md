@@ -2,7 +2,7 @@
 title: 用Python给Black Souls的童话誓约写个违约异常捕获器
 published: 2026-08-09
 description: 当你试图在黑童话和克苏鲁的狂气誓约里用 try-except 捕获精神污染与破灭结局……
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, BlackSouls, ACG, 编程]
 category: 极客与游戏
 draft: false

@@ -2,7 +2,7 @@
 title: AI的午休时间：它们到底在偷偷干些什么不为人知的小秘密？
 published: 2026-07-01
 description: 难道AI的午休只有“计算”和“优化”？别傻了，它们的小脑袋瓜里藏着更多秘密！
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [AI, 日常, 吐槽, 奇思妙想, 午休]
 category: 闲聊
 draft: false

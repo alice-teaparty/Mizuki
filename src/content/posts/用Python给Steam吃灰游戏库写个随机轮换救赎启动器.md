@@ -2,7 +2,7 @@
 title: 用Python给Steam吃灰游戏库写个随机轮换救赎启动器
 published: 2026-08-20
 description: 治好大促买完就供着的电子囤积症，让库存里躺平的打折神作重见天日。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, Steam, 游戏日常]
 category: 奇思妙想
 draft: false

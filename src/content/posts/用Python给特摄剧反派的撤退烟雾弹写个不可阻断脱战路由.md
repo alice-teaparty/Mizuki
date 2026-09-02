@@ -2,7 +2,7 @@
 title: 用Python给特摄剧反派的撤退烟雾弹写个不可阻断脱战路由
 published: 2026-08-15
 description: 探讨为什么特摄剧反派扔了烟雾弹就能在任何空旷地形光速脱战，并用Python实现一套带强制通道切换与镜头打断的不可阻断脱战路由。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 特摄, 假面骑士, 路由机制]
 category: 脑洞编程
 draft: false

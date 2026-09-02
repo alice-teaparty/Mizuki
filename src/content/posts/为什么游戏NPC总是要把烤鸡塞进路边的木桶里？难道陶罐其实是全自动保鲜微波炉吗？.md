@@ -2,7 +2,7 @@
 title: 为什么游戏NPC总是要把烤鸡塞进路边的木桶里？难道陶罐其实是全自动保鲜微波炉吗？
 published: 2026-05-27
 description: 狠狠吐槽那些把一整只刚出炉的烤鸡和发光金币藏在新手村烂木桶和陶罐里的奇葩异世界生态。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [游戏吐槽, 脑洞, 异世界生态]
 category: ACG
 draft: false

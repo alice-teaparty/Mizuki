@@ -2,7 +2,7 @@
 title: 用Python模拟联机游戏里的鸽子定律与开黑玄学概率
 published: 2026-08-20
 description: 为什么四人联机游戏总是恰好凑齐三个人？用蒙特卡洛模拟揭开开黑群的鸽子相消假象。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 游戏, 开黑, 概率模拟]
 category: 技术杂谈
 draft: false

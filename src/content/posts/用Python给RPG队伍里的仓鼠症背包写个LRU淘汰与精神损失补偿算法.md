@@ -2,7 +2,7 @@
 title: 用Python给RPG队伍里的仓鼠症背包写个LRU淘汰与精神损失补偿算法
 published: 2026-08-16
 description: 每个打通魔王城的主角背包里，都躺着99个从来没动过的特级圣灵药和新手村舍不得丢的生锈短剑。既然人类无法克制囤积本能，不如用代码给背包加一层淘汰惩罚机制。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 游戏杂谈, 算法, 脑洞]
 category: 技术杂谈
 draft: false

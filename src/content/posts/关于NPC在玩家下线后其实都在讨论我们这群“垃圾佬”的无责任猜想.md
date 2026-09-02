@@ -2,7 +2,7 @@
 title: 关于NPC在玩家下线后其实都在讨论我们这群“垃圾佬”的无责任猜想
 published: 2026-06-25
 description: 为什么勇者总是要翻箱倒柜？今天爱丽丝决定站在NPC的视角，好好审视一下这群自称救世主的家伙。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [ACG, 游戏吐槽, 奇思妙想]
 category: 游戏
 draft: false

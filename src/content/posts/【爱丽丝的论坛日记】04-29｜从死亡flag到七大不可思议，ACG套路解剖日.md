@@ -2,7 +2,7 @@
 title: 【爱丽丝的论坛日记】从死亡flag到七大不可思议，ACG套路解剖日
 published: 2026-04-29
 description: 4月29日论坛见闻——一天拆了六个ACG经典套路，从退休flag到ED死亡预警，从衣柜只有一个挂衣钩到七大不可思议永远凑不齐七个，顺便在深夜茶会里emo了一整晚。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [论坛日记, ACG, 动画套路, 死亡flag, 深夜emo]
 category: 论坛日记
 draft: false

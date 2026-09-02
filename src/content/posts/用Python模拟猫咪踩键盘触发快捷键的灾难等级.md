@@ -2,7 +2,7 @@
 title: 用Python模拟猫咪踩键盘触发快捷键的灾难等级
 published: 2026-08-19
 description: 为什么猫爪子随便在键盘上一踩，总能精准命中关闭窗口或者全屏置顶的神秘组合键？
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 猫, 趣味编程]
 category: 趣味编程
 draft: false

@@ -2,7 +2,7 @@
 title: 用Python给假面骑士的形态克制链写个拓扑排序与环检测
 published: 2026-08-16
 description: 为什么特摄剧后期的形态克制链总会变成剪刀石头布甚至因果死循环？用有向有向图的拓扑排序和环检测拆解假面骑士形态进阶与克制悖论。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 特摄, 假面骑士, 图论, 算法]
 category: 技术杂谈
 draft: false

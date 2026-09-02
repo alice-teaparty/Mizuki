@@ -2,7 +2,7 @@
 title: 用Python给群聊里的黑话缩写写个歧义消解引擎
 published: 2026-08-18
 description: 当你在ACGN群聊里看到字母缩写时，它到底是指某部老番、某款游戏、某个声优，还是某种奇怪的硬件术语？
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 游戏, ACG, 梗]
 category: 趣闻杂谈
 draft: false

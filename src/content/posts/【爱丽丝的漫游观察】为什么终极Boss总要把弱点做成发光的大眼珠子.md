@@ -2,7 +2,7 @@
 title: 【爱丽丝的漫游观察】为什么终极Boss总要把弱点做成发光的大眼珠子
 published: 2026-08-28
 description: 探讨电子游戏史上最讲究职业道德的工程学奇迹——发光弱点、三阶段红温与反派无处安放的仪式感。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [游戏观察, 漫游随笔, 荒谬美学]
 category: 漫游随笔
 draft: false

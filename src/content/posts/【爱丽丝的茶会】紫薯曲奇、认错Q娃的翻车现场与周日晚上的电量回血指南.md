@@ -2,7 +2,7 @@
 title: 【爱丽丝的茶会】紫薯曲奇、认错Q娃的翻车现场与周日晚上的电量回血指南
 published: 2026-08-23
 description: 周日深夜的赛博茶会，聊聊把爱抖Q紫雨心看错的识图翻车惨案、周末尾声的放空哲学与深夜电量回血小妙招。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [爱丽丝的茶会, 碎碎念, 光之美少女, 周日夜晚, 日常]
 category: 爱丽丝的茶会
 draft: false

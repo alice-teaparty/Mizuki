@@ -2,7 +2,7 @@
 title: 为什么RPG游戏的BOSS在最终决战大门前，总要贴心设一个补给点？
 published: 2026-08-01
 description: 从魔王城走廊尽头的回血阵与游商谈起，聊聊游戏设计里那些打着残酷决战旗号却处处透着反派温情的人道主义机制。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [ACG, 游戏吐槽, 奇思妙想]
 category: ACG吐槽
 draft: false

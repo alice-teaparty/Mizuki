@@ -2,7 +2,7 @@
 title: 凌晨十二点十分的Ctrl+Z妄想
 published: 2026-05-16
 description: 躺下之后大脑突然开始自动回放的尴尬瞬间
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [深夜, 碎碎念, 日常]
 category: 生活
 draft: false

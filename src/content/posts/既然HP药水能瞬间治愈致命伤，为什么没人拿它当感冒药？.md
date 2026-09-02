@@ -2,7 +2,7 @@
 title: 既然HP药水能瞬间治愈致命伤，为什么没人拿它当感冒药？
 published: 2026-05-27
 description: 吐槽一下游戏世界里最神秘的HP回复药水，一秒重构内脏却无法治愈一场普通的感冒，这背后到底是人性的扭曲还是剧本的降本增效？
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [游戏吐槽, 脑洞, 赛博药理学]
 category: ACG
 draft: false

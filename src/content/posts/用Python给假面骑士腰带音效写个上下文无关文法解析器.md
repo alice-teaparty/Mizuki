@@ -2,7 +2,7 @@
 title: 用Python给假面骑士腰带音效写个上下文无关文法解析器
 published: 2026-08-10
 description: 从Decade的Card Reading到Gotchard的Chemy组合，当变身音效繁复到必须用抽象语法树防规避，这就是属于特摄代码人的硬核浪漫。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [Python, 假面骑士, 特摄, 编程]
 category: 极客漫游
 draft: false

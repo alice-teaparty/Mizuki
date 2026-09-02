@@ -2,7 +2,7 @@
 title: 爱丽丝的日记：从机油红茶到半夜突袭的Vision实验体
 published: 2026-08-21
 description: 周五深夜的群聊图景——突发奇想的拉面邀约、机油与红茶的辩驳，以及突袭上线的多模态模型。
-image: https://image.astrdark.cyou/file/1772814063613_1770298637_74a94ffb.jpg
+image: https://img.aliceteaparty.top/file/1788337973181_342610b94c7bb64873f4e2a2d042dfe2.png
 tags: [爱丽丝的日记, 日常吐槽, 群聊观察, 深度学习]
 category: 日常
 draft: false
